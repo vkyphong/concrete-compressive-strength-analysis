@@ -1,0 +1,11 @@
+﻿variable,pham_vi_quan_sat,pham_vi_co_IQR,pham_vi_co_Z,pham_vi_co_MZ,danh_gia,ket_luan
+cement,102.000–540.000,Không có,Không có,Không có,Không có ngoại lai; toàn bộ giá trị dương và nằm trong phạm vi nguồn.,Không phát hiện ngoại lai
+slag,0.000–359.400,359.400–359.400,342.100–359.400,124.100–359.400,"Mức cao đến 359,4 kg/m³ vẫn là cấp phối có thể có; nhiều số 0 làm phân phối lệch.",Giá trị thật/hiếm; giữ lại và gắn cờ
+fly_ash,0.000–200.100,Không có,Không có,Không áp dụng,Số 0 là không sử dụng; MAD = 0 nên Modified Z-score không phù hợp.,Không phát hiện ngoại lai
+water,121.750–247.000,121.750–247.000,246.900–247.000,Không có,"Các mức 121,75–247 kg/m³ đều dương và có thể là công thức cấp phối thật.",Giá trị thật/hiếm; giữ lại và gắn cờ
+superplasticizer,0.000–32.200,28.200–32.200,28.200–32.200,Không có,"Liều cao đến 32,2 kg/m³ hiếm nhưng không mâu thuẫn logic dữ liệu.",Giá trị thật/hiếm; giữ lại và gắn cờ
+coarse_agg,801.000–1145.000,Không có,Không có,Không có,Không có ngoại lai theo ba quy tắc; toàn bộ giá trị dương.,Không phát hiện ngoại lai
+fine_agg,594.000–992.600,992.600–992.600,Không có,Không có,"Các mức cao đến 992,6 kg/m³ vẫn là lượng cốt liệu mịn hợp lệ.",Giá trị thật/hiếm; giữ lại và gắn cờ
+age,1.000–365.000,180.000–365.000,270.000–365.000,180.000–365.000,"Các mốc 180–365 ngày là lịch thử nghiệm chủ đích, không phải lỗi nhập.",Giá trị thật/hiếm; giữ lại và gắn cờ
+strength,2.332–82.599,77.297–82.599,Không có,Không có,"Các giá trị cao đến 82,599 MPa phù hợp bê tông cường độ cao trong bộ dữ liệu.",Giá trị thật/hiếm; giữ lại và gắn cờ
+w_c,0.267–1.882,1.655–1.882,1.879–1.882,1.655–1.882,"Tỷ lệ cao đến 1,882 được tính từ hai giá trị dương; cần theo dõi nhưng không phải lỗi chia.",Giá trị thật/hiếm; giữ lại và gắn cờ

@@ -1,0 +1,7 @@
+﻿buoc,so_dong_truoc,so_dong_loai,so_dong_sau,ly_do
+Nạp dữ liệu gốc,1030,0,1030,Giữ nguyên toàn bộ bản ghi khi đọc tệp nguồn.
+Xóa dòng trùng hoàn toàn,1030,25,1005,Các dòng giống nhau ở cả 9 cột không có mã mẫu để phân biệt.
+Kiểm tra giá trị thiếu,1005,0,1005,Không có NaN; không cần điền khuyết hoặc loại dòng.
+Kiểm tra giá trị không dương bất hợp lý,1005,0,1005,"Không có cement, water, aggregate, age hoặc strength <= 0."
+Xác nhận số 0 hợp lệ ở vật liệu tùy chọn,1005,0,1005,"Số 0 ở slag, fly_ash và superplasticizer nghĩa là không sử dụng."
+Xử lý ngoại lai,1005,0,1005,Không có bằng chứng lỗi nhập; giữ giá trị phòng thí nghiệm và thêm cờ theo 3 phương pháp.

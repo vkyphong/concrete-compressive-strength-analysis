@@ -1,0 +1,10 @@
+﻿ten_bien,y_nghia,don_vi,vai_tro
+cement,Xi măng trong hỗn hợp,kg/m³,Biến đầu vào
+slag,Xỉ lò cao nghiền mịn,kg/m³,Biến đầu vào
+fly_ash,Tro bay,kg/m³,Biến đầu vào
+water,Nước trộn,kg/m³,Biến đầu vào
+superplasticizer,Phụ gia siêu dẻo,kg/m³,Biến đầu vào
+coarse_agg,Cốt liệu thô,kg/m³,Biến đầu vào
+fine_agg,Cốt liệu mịn,kg/m³,Biến đầu vào
+age,Tuổi mẫu khi thử nén,ngày,Biến đầu vào
+strength,Cường độ chịu nén bê tông,MPa,Biến mục tiêu

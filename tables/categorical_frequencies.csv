@@ -1,0 +1,11 @@
+﻿variable,category,count,percent
+age_group,Sớm (1–7 ngày),253,25.17412935323383
+age_group,Tiêu chuẩn (8–28 ngày),481,47.86069651741294
+age_group,Dài ngày (>28 ngày),271,26.965174129353237
+scm_type,Không SCM,231,22.98507462686567
+scm_type,Chỉ slag,310,30.845771144278604
+scm_type,Chỉ fly ash,234,23.283582089552237
+scm_type,Cả slag và fly ash,230,22.885572139303484
+strength_level,Thấp,252,25.07462686567164
+strength_level,Trung bình,502,49.950248756218905
+strength_level,Cao,251,24.975124378109452
