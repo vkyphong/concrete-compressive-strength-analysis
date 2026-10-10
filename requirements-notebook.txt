@@ -1,0 +1,3 @@
+# Thêm kernel để chạy notebook trong VS Code/Jupyter.
+-r requirements-hypothesis.txt
+ipykernel>=6,<8

@@ -1,0 +1,9 @@
+{
+  "source_file": "data/hypothesis_tests/cleaned.csv",
+  "source_sha256": "220dde6aff061a71630280993add035370fd20f2f201a0ad25557a2a44d59cd9",
+  "n_rows": 1005,
+  "n_pairs": 109,
+  "n_recipes_28": 308,
+  "cluster_threshold_kg_per_m3": 1.0,
+  "scipy": "1.17.1"
+}
